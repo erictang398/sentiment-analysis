@@ -97,7 +97,7 @@ model.fit(X_train, y_train)
 # print(model.score(X_test, y_test))
 #print(model.score(X_vec, y_train_arr))
 
-input = "love this" # testing phrase
+input = "this is awesome!" # testing phrase
 input = dataCleaner(input)
 
 # convert the 1s in the matrix into a vector, .transform will produce the hits in array, .toarray converts to vector 
