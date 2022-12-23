@@ -3,3 +3,4 @@ pandas
 sklearn
 nltk
 scikit-learn
+bs4
