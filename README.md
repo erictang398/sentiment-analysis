@@ -11,8 +11,6 @@ This project aims to build a machine learning model for sentiment analysis using
 - scikit-learn
 - nltk
 - bs4
-<br>
-<br>
 <h2> Data Preprocessing </h2>
 Before training the model, the movie review data needs to be preprocessed. This includes splitting the data into training and test sets, and vectorizing the text data using CountVectorizer.
 <br>
