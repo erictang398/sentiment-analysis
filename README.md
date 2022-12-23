@@ -11,7 +11,6 @@ This project aims to build a machine learning model for sentiment analysis using
 - scikit-learn
 - nltk
 - bs4
-
 <br>
 <br>
 <h2> Data Preprocessing </h2>
