@@ -24,4 +24,5 @@ Once the model is trained, it can be used to classify new movie reviews as eithe
 <br>
 <br>
 <h2> Conclusion </h2>
+
 The Multinomial Naive Bayes model trained on the IMDB movie review dataset is able to classify movie reviews as positive or negative with high accuracy. This model can be useful for applications such as analyzing customer reviews or social media posts.
